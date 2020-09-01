@@ -3,6 +3,8 @@
   <br>
   
   # Hi there 👋
+  <br />
+  <img src="https://github-readme-stats-puce-alpha.vercel.app/api?username=gk4m&show_icons=true&line_height=45&include_all_commits=true" />
 </div>
 <!--
 **gk4m/gk4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
