@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div align="center">
+  <img src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+  <br>
+  
+  # Hi there 👋
+</div>
 <!--
 **gk4m/gk4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
